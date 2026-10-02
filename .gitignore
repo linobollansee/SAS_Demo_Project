@@ -1,0 +1,14 @@
+# SAS generated files
+*.log
+*.lst
+*.sas7bdat
+
+# Generated output
+output/charts/*
+output/reports/*
+output/exports/*
+
+# Keep the directories in version control
+!output/charts/.gitkeep
+!output/reports/.gitkeep
+!output/exports/.gitkeep

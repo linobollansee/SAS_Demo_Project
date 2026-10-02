@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price
+1,Laptop Pro,Technology,1250.0
+2,Office Monitor,Technology,420.0
+3,Wireless Keyboard,Accessories,85.0
+4,Ergonomic Chair,Furniture,310.0
+5,Standing Desk,Furniture,590.0
+6,Noise-Canceling Headphones,Accessories,180.0
+7,Webcam HD,Accessories,95.0
+8,Tablet,Technology,680.0
+9,Docking Station,Technology,220.0
+10,Desk Lamp,Furniture,75.0
